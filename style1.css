@@ -1,11 +1,20 @@
 h1{
-    color:darkmagenta;
+    color:rgb(22, 1, 22);
 }
 body{
-    background-color:aliceblue;
-    
+    background-color:antiquewhite;
+    background-position:center;
+    background-size:cover;
+   
 }
 a{
     text-decoration:dotted;
     cursor: grab;
 }
+.box{ 
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(214, 129, 210);
+ }
+ 
+ 

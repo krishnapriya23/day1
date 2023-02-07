@@ -1,0 +1,17 @@
+.box{ 
+    display: flex;
+    justify-content: space-around;
+    background-color:aliceblue;
+ }
+ body{
+    background-color: gainsboro;
+ }
+
+ .box1{
+    text-align: center;
+
+ }
+ a{
+    text-decoration:dotted;
+    cursor: grab;
+ }
